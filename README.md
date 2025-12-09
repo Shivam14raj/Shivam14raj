@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Shivam Raj</h1>
 <h3 align="center">A passionate Programmer and developer from India.</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shivam14raj&label=Profile%20views&color=0e75b6&style=flat" alt="shivam14raj" /> </p>
+
 - 🔭 I’m currently working on **Backend development**
 
 - 🌱 I’m currently learning **DSA,Backend & AIML**
@@ -14,10 +16,6 @@
 - 📫 How to reach me **shivamrraj2005@gmail.com**
 
 - ⚡ Fun fact **I am more of a DSA paglu.**
-
-- <p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmNlbWpmYXE4dGlwMjRqMjRqOHljM3N2ZWJtOW1sZTVraW5qYWRzcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/t0bSJQ3Qoc9ag/giphy.gif" width="300" />
-</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
