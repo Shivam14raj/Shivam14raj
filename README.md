@@ -15,6 +15,10 @@
 
 - ⚡ Fun fact **I am more of a DSA paglu.**
 
+- <p align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmNlbWpmYXE4dGlwMjRqMjRqOHljM3N2ZWJtOW1sZTVraW5qYWRzcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/t0bSJQ3Qoc9ag/giphy.gif" width="300" />
+</p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/shivam-raj-427a03284" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shivam-raj-427a03284" height="30" width="40" /></a>
