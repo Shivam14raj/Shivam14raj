@@ -18,7 +18,7 @@
 - ⚡ Fun fact **I am more of a DSA paglu.**
 
 - <p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmNlbWpmYXE4dGlwMjRqMjRqOHljM3N2ZWJtOW1sZTVraW5qYWRzcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/t0bSJQ3Qoc9ag/giphy.gif" width="300" />
+  <img src="https://media1.tenor.com/m/QmxOV23gdBIAAAAC/buenas-noches.gif" width="300" />
 </p>
 
 <h3 align="left">Connect with me:</h3>
