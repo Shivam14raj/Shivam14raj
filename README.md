@@ -9,7 +9,7 @@
 
 - 👯 I do DSA regularly on leetcode (find me 👉) **https://leetcode.com/u/shivam_hack014/**
 
-- 🤝 I’m looking for help with **Building Web projects and DSA**
+- 🤝 I’m looking for help with **Building Web projects, ML and DSA**
 
 - 💬 Ask me about **DSA, Frontend, Backend & AI/ML**
 
